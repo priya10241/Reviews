@@ -1,0 +1,1 @@
+Let's try to make a full-stack project straight away and learn by doing practicals and experimenting with JavaScript.
